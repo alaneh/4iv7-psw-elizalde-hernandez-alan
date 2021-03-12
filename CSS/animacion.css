@@ -77,12 +77,33 @@ css a partir de condicionales
     background-color: red;
     color: white;
     text-align: center;
-    height: 200px;
-    display:flex;
+    height: 300px;
+    /*display:flex;*/
     justify-content: center;
     align-items: center;
     animation-name: animacion_test;
     animation-duration: 2s;
     animation-direction: alternate;
     animation-iteration-count: infinite;
+}
+header{
+    margin: auto;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul, ol {
+    list-style: none;
+}
+nav li a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+nav li a:hover{
+    background-color: #434343;
+}
+nav li{
+    float: left;
 }

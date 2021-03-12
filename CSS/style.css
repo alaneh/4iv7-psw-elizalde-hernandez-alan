@@ -1,0 +1,8 @@
+*{
+    background-color: black;
+    color: blue;
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+}
+p{
+    size: 20px;
+}
