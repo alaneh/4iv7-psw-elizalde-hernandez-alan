@@ -1,8 +1,11 @@
 *{
-    background-color: black;
-    color: blue;
+    background-color: rgb(255, 255, 255);
+    color: rgb(104, 104, 182);
     text-shadow: 0 0 10px rgb(255, 255, 255);
 }
 p{
     size: 20px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
 }
